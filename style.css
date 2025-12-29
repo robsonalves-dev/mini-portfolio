@@ -44,3 +44,24 @@ p {
   background-color: #5a67d8;
   transform: translateY(-2px);
 }
+button {
+  margin-top: 15px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  background-color: #667eea;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5a67d8;
+}
+
+#textoSobre {
+  margin-top: 15px;
+  color: #444;
+  font-size: 14px;
+}
+
